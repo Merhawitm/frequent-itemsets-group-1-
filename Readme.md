@@ -58,6 +58,8 @@ We simulated **3,000 supermarket shopping trips** using 30 randomly selected pro
 ---
 
 ##  2. One-Hot Encoding
+<img width="1197" height="605" alt="image" src="https://github.com/user-attachments/assets/62042172-08fb-4145-ad23-91b52dbccdf8" />
+
 
 We converted the transactions into a **binary matrix** (True/False) for algorithm processing.
 ![alt text](image-1.png)
@@ -65,6 +67,8 @@ We converted the transactions into a **binary matrix** (True/False) for algorith
 ---
 We transformed all shopping trips into a table of checkboxes so a computer can understand them. Each row represents one shopper’s trip, and each column shows if they bought a specific product. For example, one shopper bought soda but not milk or eggs. This new format makes it easier for us to find patterns, like which items are often bought together. We saved this table for the next step of analysis.
 ##  3. Frequent Itemsets (Apriori)
+<img width="924" height="605" alt="image" src="https://github.com/user-attachments/assets/9c56ddbd-fb4e-4265-a089-abf6af287e83" />
+
 
 We applied the Apriori algorithm with a **minimum support of 5%** to find frequent patterns.
 
@@ -81,6 +85,7 @@ We analyzed the shopping trips to find the most popular products. For example, h
 ---
 
 ##  4. Closed Frequent Itemsets
+<img width="1130" height="583" alt="image" src="https://github.com/user-attachments/assets/614b7bc2-4876-49ab-a6d8-c9be69a629b5" />
 
 We identified **Closed Frequent Itemsets** where no superset has the same support.
 
@@ -94,6 +99,7 @@ We analyzed 3,000 simulated shopping trips to find the most popular products. Ha
 ---
 
 ## 5. Maximal Frequent Itemsets
+<img width="1107" height="709" alt="image" src="https://github.com/user-attachments/assets/3bb6a434-f361-4f7e-9460-9dfaf974e369" />
 
 We identified **Maximal Frequent Itemsets** where no superset is frequent.
 
