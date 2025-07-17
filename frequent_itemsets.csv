@@ -1,0 +1,31 @@
+support,itemsets,length
+0.15533333333333332,frozenset({'abrasive cleaner'}),1
+0.149,frozenset({'baby cosmetics'}),1
+0.15833333333333333,frozenset({'bags'}),1
+0.14766666666666667,frozenset({'bottled beer'}),1
+0.14166666666666666,frozenset({'brandy'}),1
+0.15733333333333333,frozenset({'butter milk'}),1
+0.15266666666666667,frozenset({'canned beer'}),1
+0.154,frozenset({'chicken'}),1
+0.15133333333333332,frozenset({'cream'}),1
+0.13466666666666666,frozenset({'cream cheese'}),1
+0.14333333333333334,frozenset({'curd'}),1
+0.16466666666666666,frozenset({'decalcifier'}),1
+0.15233333333333332,frozenset({'finished products'}),1
+0.148,frozenset({'frozen fish'}),1
+0.14433333333333334,frozenset({'frozen potato products'}),1
+0.142,frozenset({'hard cheese'}),1
+0.15566666666666668,frozenset({'liver loaf'}),1
+0.14866666666666667,frozenset({'misc. beverages'}),1
+0.15033333333333335,frozenset({'organic products'}),1
+0.15333333333333332,frozenset({'processed cheese'}),1
+0.13833333333333334,frozenset({'prosecco'}),1
+0.15666666666666668,frozenset({'rice'}),1
+0.14866666666666667,frozenset({'salt'}),1
+0.14833333333333334,frozenset({'semi-finished bread'}),1
+0.15433333333333332,frozenset({'snack products'}),1
+0.14566666666666667,frozenset({'sparkling wine'}),1
+0.158,frozenset({'specialty cheese'}),1
+0.16066666666666668,frozenset({'syrup'}),1
+0.16033333333333333,frozenset({'tropical fruit'}),1
+0.147,frozenset({'whipped/sour cream'}),1

@@ -1,0 +1,31 @@
+support,itemsets,length
+0.1416666666666666,{'baby cosmetics'},1
+0.154,{'beverages'},1
+0.1606666666666666,{'candles'},1
+0.1453333333333333,{'candy'},1
+0.1376666666666666,{'chewing gum'},1
+0.1516666666666666,{'condensed milk'},1
+0.1606666666666666,{'domestic eggs'},1
+0.1453333333333333,{'female sanitary products'},1
+0.149,{'fish'},1
+0.1443333333333333,{'frankfurter'},1
+0.142,{'frozen vegetables'},1
+0.1646666666666666,{'hard cheese'},1
+0.156,{'honey'},1
+0.1423333333333333,{'house keeping products'},1
+0.1536666666666666,{'male cosmetics'},1
+0.1483333333333333,{'mustard'},1
+0.1456666666666666,{'organic sausage'},1
+0.148,{'other vegetables'},1
+0.142,{'pickled vegetables'},1
+0.1336666666666666,{'popcorn'},1
+0.1436666666666666,{'rolls/buns'},1
+0.157,{'root vegetables'},1
+0.1483333333333333,{'semi-finished bread'},1
+0.1483333333333333,{'snack products'},1
+0.159,{'soap'},1
+0.1466666666666666,{'soda'},1
+0.148,{'tea'},1
+0.1586666666666666,{'vinegar'},1
+0.1623333333333333,{'waffles'},1
+0.148,{'whole milk'},1
