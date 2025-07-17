@@ -22,9 +22,9 @@ All results are saved in `.csv` files and analyzed in a fully commented Python n
 
 ## Group Members & Contributions
 
-| Name                | Email                   | Contribution                                  |
-|---------------------|---------------------------|-----------------------------------------------|
-| Merhawit Tesfay      |merhawitwukro@email.com          | Simulated transaction data and preprocessing |
+| Name                | Email                   |                              
+|---------------------|---------------------------|
+| Merhawit Tesfay      |merhawitwukro@email.com         
 
 ## Files in This Repository
 
@@ -63,7 +63,11 @@ We transformed all shopping trips into a table of checkboxes so a computer can u
 We applied the Apriori algorithm with a **minimum support of 5%** to find frequent patterns.
 
 **Top 10 Frequent Itemsets:**
-![alt text](image-2.png)
+![alt text](image-2.png) 
+
+
+
+
 We analyzed the shopping trips to find the most popular products. For example, hard cheese was bought in 16% of all trips, and waffles in about 16% too. These are the items that customers buy most often. This helps us understand customer preferences and which products are ‘frequent shoppers’ in baskets. We saved all frequent product patterns in a file for further analysis.
 
 
