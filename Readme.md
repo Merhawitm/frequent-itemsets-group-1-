@@ -62,6 +62,8 @@ We simulated **3,000 supermarket shopping trips** using 30 randomly selected pro
 
 
 We converted the transactions into a **binary matrix** (True/False) for algorithm processing.
+
+**Output:**
 ![alt text](image-1.png)
 
 ---
@@ -72,6 +74,8 @@ We transformed all shopping trips into a table of checkboxes so a computer can u
 
 We applied the Apriori algorithm with a **minimum support of 5%** to find frequent patterns.
 
+
+**Output:**
 **Top 10 Frequent Itemsets:**
 ![alt text](image-2.png) 
 
@@ -88,9 +92,9 @@ We analyzed the shopping trips to find the most popular products. For example, h
 <img width="1130" height="583" alt="image" src="https://github.com/user-attachments/assets/614b7bc2-4876-49ab-a6d8-c9be69a629b5" />
 
 We identified **Closed Frequent Itemsets** where no superset has the same support.
+Closed itemsets help eliminate redundancy by keeping only patterns with unique support values.
 
-*Closed itemsets help eliminate redundancy by keeping only patterns with unique support values.*
-
+**Output:**
 ![alt text](image-3.png)
 
 We analyzed 3,000 simulated shopping trips to find the most popular products. Hard cheese was the most common, appearing in 16.5% of baskets. Waffles and candles were also very frequent. This helps us see what customers tend to buy most often. We saved these popular products and combinations for further analysis.
@@ -102,9 +106,9 @@ We analyzed 3,000 simulated shopping trips to find the most popular products. Ha
 <img width="1107" height="709" alt="image" src="https://github.com/user-attachments/assets/3bb6a434-f361-4f7e-9460-9dfaf974e369" />
 
 We identified **Maximal Frequent Itemsets** where no superset is frequent.
+Maximal itemsets highlight the largest significant patterns.
 
-*Maximal itemsets highlight the largest significant patterns.*
-
+**Output:**
 ![alt text](image-4.png)
 
 We found the largest and most important shopping patterns in our data. For example, ‘candles’ appeared in 16% of all shopping trips, and no bigger group of products was bought as frequently. These ‘maximal’ patterns are useful because they show us the strongest and most unique buying habits without any redundancy. We saved them for future insights.
