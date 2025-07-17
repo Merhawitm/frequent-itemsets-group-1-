@@ -43,6 +43,10 @@ All results are saved in `.csv` files and analyzed in a fully commented Python n
 ---
 
 ##  1. Simulating Transactions
+<img width="921" height="552" alt="image" src="https://github.com/user-attachments/assets/b84ecc7c-388d-4692-9335-22ecfbb94aa0" />
+
+
+
 
 We simulated **3,000 supermarket shopping trips** using 30 randomly selected products from a larger dataset of 167 unique supermarket items.
 
