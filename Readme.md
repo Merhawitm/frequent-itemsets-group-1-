@@ -27,6 +27,7 @@ All results are saved in `.csv` files and analyzed in a fully commented Python n
 | Merhawit Tesfay      |merhawitwukro@email.com       
 | Faith Chakwanira     |faithchakwanira@gmail.com
 | Nicholas Kinyanjui   |nicholas25gunda@gmail.com
+| Mark Chweya          |chweyamark@gmail.com
 
 ## Files in This Repository
 
